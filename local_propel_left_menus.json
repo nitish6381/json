@@ -1,0 +1,1231 @@
+[
+    {
+      "name": "Dashboard",
+      "slug": "/dashboard",
+      "icon": "dashboard_icon",
+      "key": "dashboard",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Timeline Feeds",
+      "slug": "/timeline",
+      "icon": "timeline_icon",
+      "key": "timeline",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Polls",
+      "slug": "/polls",
+      "icon": "polls_icon",
+      "key": "polls",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Polls",
+      "slug": "/my-polls",
+      "icon": "polls_icon",
+      "key": "my_polls",
+      "propel_user_type_ids": ["d40a24fd-f7b1-46a5-902d-c2defb7fd655"],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Surveys",
+      "slug": "/surveys",
+      "icon": "surveys_icon",
+      "key": "surveys",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Surveys",
+      "slug": "/my-surveys",
+      "icon": "surveys_icon",
+      "key": "my_surveys",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Announcements",
+      "slug": "/announcement",
+      "icon": "announcement_icon",
+      "key": "announcement",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Announcements",
+      "slug": "/my-announcements",
+      "icon": "myannouncement_icon",
+      "key": "my_announcement",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "My Achievements",
+      "slug": "/my-achievement",
+      "icon": "my_achivements_icon",
+      "key": "my_achievement",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Appreciate",
+      "slug": "/badges",
+      "icon": "star_badges_icon",
+      "key": "badges",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Metric Based Rewards",
+      "slug": "/metrics",
+      "icon": "metric_rewards_icon",
+      "key": "metrics",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Nomination Rewards",
+      "slug": "/nomination-rewards",
+      "icon": "timeline_icon",
+      "key": "nomination_rewards",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Channel Partner Instances",
+      "slug": "/channel-partner-instance",
+      "icon": "metric_rewards_icon",
+      "key": "channel_partner_instance",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Login Report",
+      "slug": "/login-reports",
+      "icon": "star_badges_icon",
+      "key": "login_reports",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Budget Utilization",
+      "slug": "/budget-utilization",
+      "icon": "metric_rewards_icon",
+      "key": "budget_utilization",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Reward Utilization",
+      "slug": "/reward-utilization",
+      "icon": "metric_rewards_icon",
+      "key": "reward_utilization",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Catalog Distribution",
+      "slug": "/catalog-distribution",
+      "icon": "metric_rewards_icon",
+      "key": "catalog_distribution",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Recognition Instances",
+      "slug": "/recognition-Instances",
+      "icon": "star_badges_icon",
+      "key": "recognition_instances",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Social Instances",
+      "slug": "/social-instances",
+      "icon": "metric_rewards_icon",
+      "key": "social_instances",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Polls & Surveys Report",
+      "slug": "/polls-surveys-report",
+      "icon": "metric_rewards_icon",
+      "key": "polls_surveys_report",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Brand Vouchers & Orders",
+      "slug": "/brand-vouchers",
+      "icon": "brand_vouchers_icon",
+      "key": "brand_vouchers",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Redeem",
+      "slug": "/redeem",
+      "icon": "recognition_icon",
+      "key": "redeem",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "My Orders",
+      "slug": "/my-orders",
+      "icon": "recognition_icon",
+      "key": "my_orders",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "My Transactions",
+      "slug": "/my-transactions",
+      "icon": "recognition_icon",
+      "key": "my_transactions",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Registrations",
+      "slug": "/manage-registrations",
+      "icon": "user_icon",
+      "key": "registrations",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Claims",
+      "slug": "/manage-claims",
+      "icon": "user_icon",
+      "key": "manage_claims",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Manage Visuals",
+      "slug": "/manage-claims",
+      "icon": "user_icon",
+      "key": "manage_claims",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Goal Settings",
+      "slug": "/goal-settings",
+      "icon": "user_icon",
+      "key": "goal_settings",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Schemes",
+      "slug": "/schemes",
+      "icon": "user_icon",
+      "key": "schemes",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Coupon Generation",
+      "slug": "/coupon-generation",
+      "icon": "user_icon",
+      "key": "coupon_generation",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Add/Manage Users",
+      "slug": "/manage-users",
+      "icon": "user_icon",
+      "key": "add_manage_users",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Orders",
+      "slug": "/orders",
+      "icon": "recognition_icon",
+      "key": "orders",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Reports List",
+      "slug": "/reports",
+      "icon": "reports_icon",
+      "key": "reports_list",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Rewards Approval",
+      "slug": "/approvals",
+      "icon": "approval_icon",
+      "key": "rewards_approvals",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Load Money",
+      "slug": "/load-money",
+      "icon": "load_money_icon",
+      "key": "load_money",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Budget Allocation",
+      "slug": "/budget-allocation",
+      "icon": "budget_allocation_icon",
+      "key": "budget_allocation",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Load Money History",
+      "slug": "/business-transactions",
+      "icon": "load_money_history_icon",
+      "key": "business_transactions",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Users Transactions History",
+      "slug": "/user-transactions",
+      "icon": "load_money_history_icon",
+      "key": "user_transactions",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Reward Transactions History",
+      "slug": "/transactions-history",
+      "icon": "configuration_icon",
+      "key": "transactions_history",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Organization Details",
+      "slug": "/organization-details",
+      "icon": "organization_details_icon",
+      "key": "organization_details",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Manage Subscription",
+      "slug": "/manage-billings",
+      "icon": "manage_subscriptions_icon",
+      "key": "manage_billings",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Configurations",
+      "slug": "/configurations",
+      "icon": "configuration_icon",
+      "key": "configurations",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Theme",
+      "slug": "/theme-settings",
+      "icon": "organization_details_icon",
+      "key": "theme_settings",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Notification Settings",
+      "slug": "/notification-settings",
+      "icon": "configuration_icon",
+      "key": "notification_settings",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Goals & Achievements",
+      "slug": "/goals-and-achievements",
+      "icon": "user_icon",
+      "key": "goals_and_achievements",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Create/Manage Rewards",
+      "slug": "/reward-programs",
+      "icon": "reward_icon",
+      "key": "reward_programs",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 2,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Retailer Instance",
+      "slug": "/channel-partner-instance",
+      "icon": "metric_rewards_icon",
+      "key": "channel_partner_instance",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Manage Leads",
+      "slug": "/manage-leads",
+      "icon": "user_icon",
+      "key": "manage_leads",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Projects",
+      "slug": "/schemes",
+      "icon": "user_icon",
+      "key": "schemes",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Grievance",
+      "slug": "/grievances",
+      "icon": "configuration_icon",
+      "key": "grievances",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Appreciate Your Team",
+      "slug": "/my-badges",
+      "icon": "star_badges_icon",
+      "key": "my_badges",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Peer to Peer",
+      "slug": "/my-badges",
+      "icon": "star_badges_icon",
+      "key": "my_badges",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Zeallence Awards",
+      "slug": "/my-badges",
+      "icon": "star_badges_icon",
+      "key": "my_badges",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Registration Settings",
+      "slug": "/registration-settings",
+      "icon": "metric_rewards_icon",
+      "key": "registration_settings",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Enquiries",
+      "slug": "/enquiries",
+      "icon": "star_badges_icon",
+      "key": "enquiries",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "TBSPL Orders",
+      "slug": "/consumer-orders",
+      "icon": "star_badges_icon",
+      "key": "consumer_orders",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Digital Assets",
+      "slug": "/journey",
+      "icon": "star_badges_icon",
+      "key": "journey",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "News & Events",
+      "slug": "/news-events",
+      "icon": "star_badges_icon",
+      "key": "news_events",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Leadership",
+      "slug": "/leader",
+      "icon": "star_badges_icon",
+      "key": "leader",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Products",
+      "slug": "/products",
+      "icon": "star_badges_icon",
+      "key": "products",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Store Location",
+      "slug": "/store-location",
+      "icon": "star_badges_icon",
+      "key": "store_location",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Gallery",
+      "slug": "/gallery",
+      "icon": "star_badges_icon",
+      "key": "gallery",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Journey",
+      "slug": "/journey",
+      "icon": "star_badges_icon",
+      "key": "journey",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Facilities",
+      "slug": "/facilities",
+      "icon": "star_badges_icon",
+      "key": "facilities",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Roles & Permissions",
+      "slug": "/roles",
+      "icon": "organization_details_icon",
+      "key": "roles",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Proforma Invoice",
+      "slug": "/proforma-invoice",
+      "icon": "budget_allocation_icon",
+      "key": "proforma_invoice",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Feedback",
+      "slug": "/feedback",
+      "icon": "star_badges_icon",
+      "key": "feedback",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Recognition",
+      "slug": "",
+      "icon": "recognition_icon",
+      "key": "recognition",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Rewards",
+      "slug": "/rewards",
+      "icon": "reward_icon",
+      "key": "rewards",
+      "propel_user_type_ids": [
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Reports & Analytics",
+      "slug": "",
+      "icon": "my_achivements_icon",
+      "key": "reports_and_analytics",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Retailer Incentives",
+      "slug": "",
+      "icon": "user_icon",
+      "key": "retailer_incentives",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Wallet",
+      "slug": "",
+      "icon": "organization_details_icon",
+      "key": "wallet",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Admin Settings",
+      "slug": "",
+      "icon": "#{SiteImage.find_by_name('admin_icon",
+      "key": "admin_settings",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Digital Assets",
+      "slug": "",
+      "icon": "my_achivements_icon",
+      "key": "digital_assets",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Influencer and Project Instances",
+      "slug": "/channel-partner-instance",
+      "icon": "metric_rewards_icon",
+      "key": "channel_partner_instance",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Cheers to Peers",
+      "slug": "/my-badges",
+      "icon": "star_badges_icon",
+      "key": "my_badges",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Gamifications",
+      "slug": "",
+      "icon": "user_icon",
+      "key": "gamifications",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Influencer Incentives",
+      "slug": "",
+      "icon": "user_icon",
+      "key": "influencer_incentives",
+      "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Delegation",
+      "slug": "/delegation",
+      "icon": "configuration_icon",
+      "key": "delegation",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Engagement Initiatives",
+      "slug": "/engagement-initiatives",
+      "icon": "my_achivements_icon",
+      "key": "engagement_initiatives",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Manager Transaction History",
+      "slug": "/manager-transaction-history",
+      "icon": "load_money_history_icon",
+      "key": "manager_transaction_history",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Redemption Window",
+      "slug": "/redemption-window",
+      "icon": "metric_rewards_icon",
+      "key": "redemption_window",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Points-to-Pay",
+      "slug": "/points-to-pay",
+      "icon": "metric_rewards_icon",
+      "key": "points_to_pay",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Registration Report",
+      "slug": "/manage-registrations",
+      "icon": "metric_rewards_icon",
+      "key": "manage_registrations",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Incentives Report",
+      "slug": "/incentives-report",
+      "icon": "metric_rewards_icon",
+      "key": "incentives_report",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Report Logs",
+      "slug": "/reports",
+      "icon": "metric_rewards_icon",
+      "key": "report_logs",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Engagement Initiatives",
+      "slug": "/engagement-initiatives",
+      "icon": "metric_rewards_icon",
+      "key": "engagement_initiatives",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Registration Page",
+      "slug": "/registration-settings",
+      "icon": "metric_rewards_icon",
+      "key": "registration_page",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "secondary",
+      "deleted": false
+    },
+    {
+      "name": "Organisational Details",
+      "slug": "/organization-details",
+      "icon": "organization_details_icon",
+      "key": "organization_details",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Project Creation",
+      "slug": "/schemes",
+      "icon": "user_icon",
+      "key": "project_creation",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406",
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "QR Code Generator",
+      "slug": "/coupon-generation",
+      "icon": "user_icon",
+      "key": "qr_code_generator",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Report List",
+      "slug": "/reports",
+      "icon": "reward_icon",
+      "key": "reports_list",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+      "name": "Registration Management",
+      "slug": "/manage-registrations",
+      "icon": "metric_rewards_icon",
+      "key": "registration_management",
+      "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+      ],
+      "order": 1,
+      "primary_secondary": "primary",
+      "deleted": false
+    },
+    {
+        "name": "Partner Management",
+        "slug": "/partner-management",
+        "icon": "metric_rewards_icon",
+        "key": "partner_management",
+        "propel_user_type_ids": [
+          "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+          "a67c70d9-474b-46bd-a40f-6e06188fa406",
+          "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "Loyalty & Incentive",
+        "slug": "/loyalty-and-incentive",
+        "icon": "metric_rewards_icon",
+        "key": "loyalty_and_incentive",
+        "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "Engagement",
+        "slug": "/engagement",
+        "icon": "metric_rewards_icon",
+        "key": "engagement",
+        "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655",
+        "a67c70d9-474b-46bd-a40f-6e06188fa406",
+        "5d6e67e4-46b2-439f-9a6d-046bda4d8b7d"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "Gamifications",
+        "slug": "/gamifications",
+        "icon": "my_achivements_icon",
+        "key": "Gamifications",
+        "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "Contest Creation, Visuals Management​s",
+        "slug": "/contest-creation",
+        "icon": "my_achivements_icon",
+        "key": "contest_creation",
+        "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "User Management",
+        "slug": "/user-management",
+        "icon": "my_achivements_icon",
+        "key": "user_management",
+        "propel_user_type_ids": [
+        "d40a24fd-f7b1-46a5-902d-c2defb7fd655"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    },
+    {
+        "name": "Brand Stores, Orders",
+        "slug": "/brand-vouchers",
+        "icon": "brand_vouchers_icon",
+        "key": "brand_stores",
+        "propel_user_type_ids": [
+        "a67c70d9-474b-46bd-a40f-6e06188fa406"
+        ],
+        "order": 1,
+        "primary_secondary": "primary",
+        "deleted": false
+    }
+  ]
